@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelos", "modelos\modelos.csproj", "{CBC4807C-E08E-4A77-868A-209FF9DA9518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vistas", "vistas\vistas.csproj", "{BEE74A1C-FF04-4242-840E-AA4F76A994DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "segurida", "segurida\segurida.csproj", "{B59C5F52-45BE-4C48-BBF4-BA2B0B5285A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC4807C-E08E-4A77-868A-209FF9DA9518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC4807C-E08E-4A77-868A-209FF9DA9518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC4807C-E08E-4A77-868A-209FF9DA9518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC4807C-E08E-4A77-868A-209FF9DA9518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE74A1C-FF04-4242-840E-AA4F76A994DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE74A1C-FF04-4242-840E-AA4F76A994DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE74A1C-FF04-4242-840E-AA4F76A994DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE74A1C-FF04-4242-840E-AA4F76A994DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59C5F52-45BE-4C48-BBF4-BA2B0B5285A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59C5F52-45BE-4C48-BBF4-BA2B0B5285A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59C5F52-45BE-4C48-BBF4-BA2B0B5285A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59C5F52-45BE-4C48-BBF4-BA2B0B5285A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73225B2D-C219-418D-9F4D-D324EE676EBD}
+	EndGlobalSection
+EndGlobal

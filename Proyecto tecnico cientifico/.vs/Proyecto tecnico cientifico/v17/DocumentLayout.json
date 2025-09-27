@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\ptcmaison definitivo\\proyecto tecnico cientifico\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\ptcmaison definitivo\\proyecto tecnico cientifico\\vistas\\formulariosempleados\\frmpaginaprincipalempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formulariosempleados\\frmpaginaprincipalempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\ptcmaison definitivo\\proyecto tecnico cientifico\\vistas\\formulariosempleados\\frmpaginaprincipalempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formulariosempleados\\frmpaginaprincipalempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\ptcmaison definitivo\\proyecto tecnico cientifico\\vistas\\formulariosempleados\\frmmostrarinventariocomplementoemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formulariosempleados\\frmmostrarinventariocomplementoemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\ptcmaison definitivo\\proyecto tecnico cientifico\\vistas\\formulariosempleados\\frmmostrarinventariocomplementoemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formulariosempleados\\frmmostrarinventariocomplementoemple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPaginaPrincipalEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\formulariosEmpleados\\frmPaginaPrincipalEmpleado.cs",
+              "RelativeDocumentMoniker": "vistas\\formulariosEmpleados\\frmPaginaPrincipalEmpleado.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\formulariosEmpleados\\frmPaginaPrincipalEmpleado.cs",
+              "RelativeToolTip": "vistas\\formulariosEmpleados\\frmPaginaPrincipalEmpleado.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAtwD8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:24:46.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPaginaPrincipalEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\formulariosEmpleados\\frmPaginaPrincipalEmpleado.cs",
+              "RelativeDocumentMoniker": "vistas\\formulariosEmpleados\\frmPaginaPrincipalEmpleado.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\formulariosEmpleados\\frmPaginaPrincipalEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vistas\\formulariosEmpleados\\frmPaginaPrincipalEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:24:42.757Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMostrarInventarioComplementoEmple.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\formulariosEmpleados\\frmMostrarInventarioComplementoEmple.cs",
+              "RelativeDocumentMoniker": "vistas\\formulariosEmpleados\\frmMostrarInventarioComplementoEmple.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\formulariosEmpleados\\frmMostrarInventarioComplementoEmple.cs",
+              "RelativeToolTip": "vistas\\formulariosEmpleados\\frmMostrarInventarioComplementoEmple.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:21:23.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMostrarInventarioComplementoEmple.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\formulariosEmpleados\\frmMostrarInventarioComplementoEmple.cs",
+              "RelativeDocumentMoniker": "vistas\\formulariosEmpleados\\frmMostrarInventarioComplementoEmple.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\formulariosEmpleados\\frmMostrarInventarioComplementoEmple.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vistas\\formulariosEmpleados\\frmMostrarInventarioComplementoEmple.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:21:09.465Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\Program.cs",
+              "RelativeDocumentMoniker": "vistas\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\ptcMaison definitivo\\Proyecto tecnico cientifico\\vistas\\Program.cs",
+              "RelativeToolTip": "vistas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:28:20.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

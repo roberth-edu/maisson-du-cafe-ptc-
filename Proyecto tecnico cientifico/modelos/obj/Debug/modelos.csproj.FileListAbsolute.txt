@@ -1,0 +1,63 @@
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rober\OneDrive\Desktop\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\ptc\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.pdb
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.dll
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.pdb
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.Up2Date
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.dll
+C:\Users\Joseph\Desktop\copia de seguridad muy seguridad ya que no confio en mi mismo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\ptcMaisson\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\bin\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\modelos\obj\Debug\modelos.pdb
