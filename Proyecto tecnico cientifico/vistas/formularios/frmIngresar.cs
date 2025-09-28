@@ -78,7 +78,11 @@ namespace vistas.formularios
 
         private void txtIngresarUsuario_TextChanged(object sender, EventArgs e)
         {
-
+            txtIngresarEmail.MaxLength = 254;
+            if (txtIngresarEmail.Text.Length == txtIngresarEmail.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres alcanzado");
+            }
         }
 
         private void lblOlvidaste_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -86,6 +90,16 @@ namespace vistas.formularios
             frmOlvidasteLaContra frmOlvidasteLaContra = new frmOlvidasteLaContra();
             frmOlvidasteLaContra.Show();
             this.Hide();
+        }
+
+        private void txtIngresarContraseña_TextChanged(object sender, EventArgs e)
+        {
+            txtIngresarContraseña.MaxLength = 32;
+            if (txtIngresarContraseña.Text.Length == txtIngresarContraseña.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres alcanzado");
+
+            }
         }
     }
 }

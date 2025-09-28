@@ -86,5 +86,66 @@ namespace vistas.formularios
         {
 
         }
+
+        private void txtNombreEmpresa_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsLetter(e.KeyChar) && !char.IsControl(e.KeyChar) && !char.IsWhiteSpace(e.KeyChar))
+            {
+                e.Handled = true; // Cancela la tecla
+            }
+        }
+
+        private void txtNombreEmpresa_TextChanged(object sender, EventArgs e)
+        {
+            txtNombreEmpresa.MaxLength = 100;
+            if (txtNombreEmpresa.Text.Length == txtNombreEmpresa.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres alcanzado");
+            }
+        }
+
+        private void txtDirreccionEmpresa_TextChanged(object sender, EventArgs e)
+        {
+            txtDirreccionEmpresa.MaxLength = 200;
+            if (txtDirreccionEmpresa.Text.Length == txtDirreccionEmpresa.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres alcanzado");
+
+            }
+        }
+
+        private void txtTelefono_TextChanged(object sender, EventArgs e)
+        {
+            txtTelefono.MaxLength = 9;
+            if (txtTelefono.Text.Length == txtTelefono.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres alcanzado");
+
+            }
+        }
+
+        private void txtTelefono_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsControl(e.KeyChar))
+            {
+                return;
+            }
+
+            
+            if (!char.IsDigit(e.KeyChar) && e.KeyChar != '-')
+            {
+                e.Handled = true; 
+                return;
+            }
+        }
+
+        private void txtEmail_TextChanged(object sender, EventArgs e)
+        {
+            txtEmail.MaxLength = 254;
+            if (txtEmail.Text.Length == txtEmail.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres alcanzado");
+            }
+        }
     }
 }

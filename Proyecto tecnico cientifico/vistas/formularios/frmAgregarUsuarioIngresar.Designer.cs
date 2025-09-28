@@ -87,6 +87,7 @@
             this.txtConfirmar.ShortcutsEnabled = false;
             this.txtConfirmar.Size = new System.Drawing.Size(398, 52);
             this.txtConfirmar.TabIndex = 13;
+            this.txtConfirmar.TextChanged += new System.EventHandler(this.txtConfirmar_TextChanged);
             // 
             // label4
             // 
@@ -106,6 +107,7 @@
             this.txtContra.ShortcutsEnabled = false;
             this.txtContra.Size = new System.Drawing.Size(416, 52);
             this.txtContra.TabIndex = 8;
+            this.txtContra.TextChanged += new System.EventHandler(this.txtContra_TextChanged);
             // 
             // txtGmail
             // 
@@ -115,6 +117,7 @@
             this.txtGmail.ShortcutsEnabled = false;
             this.txtGmail.Size = new System.Drawing.Size(398, 50);
             this.txtGmail.TabIndex = 7;
+            this.txtGmail.TextChanged += new System.EventHandler(this.txtGmail_TextChanged);
             // 
             // txtnombre
             // 
@@ -125,6 +128,7 @@
             this.txtnombre.Size = new System.Drawing.Size(416, 50);
             this.txtnombre.TabIndex = 6;
             this.txtnombre.TextChanged += new System.EventHandler(this.txtnombre_TextChanged);
+            this.txtnombre.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtnombre_KeyPress);
             // 
             // button1
             // 

@@ -107,6 +107,7 @@
             this.txtIngresarContraseña.Size = new System.Drawing.Size(1219, 92);
             this.txtIngresarContraseña.TabIndex = 4;
             this.txtIngresarContraseña.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtIngresarContraseña.TextChanged += new System.EventHandler(this.txtIngresarContraseña_TextChanged);
             // 
             // lblContraseña
             // 

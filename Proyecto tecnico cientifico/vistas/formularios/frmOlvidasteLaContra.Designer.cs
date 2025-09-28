@@ -54,6 +54,7 @@
             this.txtRecuperar.ShortcutsEnabled = false;
             this.txtRecuperar.Size = new System.Drawing.Size(891, 62);
             this.txtRecuperar.TabIndex = 1;
+            this.txtRecuperar.TextChanged += new System.EventHandler(this.txtRecuperar_TextChanged);
             // 
             // btnRecuperar
             // 

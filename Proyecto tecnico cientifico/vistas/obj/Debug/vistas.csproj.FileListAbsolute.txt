@@ -181,3 +181,35 @@ C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico
 C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmAgregarUsuarioIngresar.resources
 C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmOlvidasteLaContra.resources
 C:\Users\rober\OneDrive\Desktop\ptcMaison definitivo\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmConfiguracionEmpresa.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Debug\vistas.exe.config
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Debug\vistas.exe
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Debug\vistas.pdb
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Debug\modelos.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Debug\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmInventarioOpcionesEmple.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmMenuEmple.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmmostrarInventarioCafeEmple.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmMostrarInventarioComplementoEmple.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmPaginaPrincipalEmpleado.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.BarraDeBusqueda.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmAgregarUsuarioIngresar.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmConfiguracionEmpresa.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmEmpleados.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmGastos.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmIngresar.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmInventarioAgregar.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmInventarioOpciones.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmMaisson.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmMenu.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmmostrarInventarioCafe.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmMostrarInventarioComplemento.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmPaginaPrincipal.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.formularios.frmOlvidasteLaContra.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.Properties.Resources.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.exe
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Debug\vistas.pdb

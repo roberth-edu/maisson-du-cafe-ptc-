@@ -93,6 +93,8 @@
             this.txtNombreEmpresa.ShortcutsEnabled = false;
             this.txtNombreEmpresa.Size = new System.Drawing.Size(504, 34);
             this.txtNombreEmpresa.TabIndex = 9;
+            this.txtNombreEmpresa.TextChanged += new System.EventHandler(this.txtNombreEmpresa_TextChanged);
+            this.txtNombreEmpresa.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNombreEmpresa_KeyPress);
             // 
             // txtDirreccionEmpresa
             // 
@@ -101,6 +103,7 @@
             this.txtDirreccionEmpresa.ShortcutsEnabled = false;
             this.txtDirreccionEmpresa.Size = new System.Drawing.Size(504, 34);
             this.txtDirreccionEmpresa.TabIndex = 8;
+            this.txtDirreccionEmpresa.TextChanged += new System.EventHandler(this.txtDirreccionEmpresa_TextChanged);
             // 
             // txtTelefono
             // 
@@ -109,6 +112,8 @@
             this.txtTelefono.ShortcutsEnabled = false;
             this.txtTelefono.Size = new System.Drawing.Size(504, 34);
             this.txtTelefono.TabIndex = 7;
+            this.txtTelefono.TextChanged += new System.EventHandler(this.txtTelefono_TextChanged);
+            this.txtTelefono.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtTelefono_KeyPress);
             // 
             // txtEmail
             // 
@@ -117,6 +122,7 @@
             this.txtEmail.ShortcutsEnabled = false;
             this.txtEmail.Size = new System.Drawing.Size(504, 34);
             this.txtEmail.TabIndex = 6;
+            this.txtEmail.TextChanged += new System.EventHandler(this.txtEmail_TextChanged);
             // 
             // btnRegistrar
             // 

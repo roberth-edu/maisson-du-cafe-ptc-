@@ -99,7 +99,47 @@ namespace vistas.formularios
 
         private void txtnombre_TextChanged(object sender, EventArgs e)
         {
+            txtnombre.MaxLength = 35;
+            if (txtnombre.Text.Length == txtnombre.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres establecido");
+            }
+        }
 
+        private void txtnombre_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsLetter(e.KeyChar) && !char.IsControl(e.KeyChar) && !char.IsWhiteSpace(e.KeyChar))
+            {
+                e.Handled = true; // Cancela la tecla
+            }
+        }
+
+        private void txtGmail_TextChanged(object sender, EventArgs e)
+        {
+            txtGmail.MaxLength = 254;
+            if (txtGmail.Text.Length == txtGmail.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres alcanzado");
+            }
+        }
+
+        private void txtContra_TextChanged(object sender, EventArgs e)
+        {
+            txtContra.MaxLength = 32;
+            if (txtContra.Text.Length == txtContra.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres establecido");
+            }
+        }
+
+        private void txtConfirmar_TextChanged(object sender, EventArgs e)
+        {
+            txtConfirmar.MaxLength = 32;
+            if (txtConfirmar.Text.Length == txtConfirmar.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres establecido");
+
+            }
         }
     }
 }

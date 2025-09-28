@@ -40,5 +40,14 @@ namespace vistas.formularios
         {
 
         }
+
+        private void txtRecuperar_TextChanged(object sender, EventArgs e)
+        {
+            txtRecuperar.MaxLength = 254;
+            if (txtRecuperar.Text.Length == txtRecuperar.MaxLength)
+            {
+                MessageBox.Show("limite de caracteres alcanzado");
+            }
+        }
     }
 }
