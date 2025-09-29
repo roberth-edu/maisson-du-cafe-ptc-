@@ -50,6 +50,32 @@ namespace vistas.formularios
 
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(txtNombreEmpresa.Text))
+            {
+                MessageBox.Show("Ingresar un nombre valido");
+                return;
+            }
+            if (string.IsNullOrEmpty(txtEmail.Text))
+            {
+                MessageBox.Show("Ingresar un email valido");
+                return;
+            }
+            if (string.IsNullOrEmpty(txtTelefono.Text))
+            {
+                MessageBox.Show("Ingresar un telefono valido");
+                return;
+
+            }
+            if (string.IsNullOrEmpty(txtDirreccionEmpresa.Text))
+            {
+                MessageBox.Show("Ingresae una dirreccion valida");
+                return;
+            }
+            if (pbImagen.Image == null)
+            {
+                MessageBox.Show("Debe seleccionar una imagen para el logo");
+                return;
+            }
             DatosEmpresa d = new DatosEmpresa();
             d.Nombre = txtNombreEmpresa.Text;
             d.Email = txtEmail.Text;

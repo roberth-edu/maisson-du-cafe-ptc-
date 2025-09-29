@@ -122,8 +122,8 @@ namespace vistas.formularios
 
             foreach (DataGridViewRow row in dgvComplemento.Rows)
             {
-                total += Convert.ToDouble(row.Cells["costoUnitario"].Value ?? 0) *
-                         Convert.ToInt32(row.Cells["cantidadInventario"].Value ?? 0);
+                total += Convert.ToDouble(row.Cells["costo"].Value ?? 0) *
+                         Convert.ToInt32(row.Cells["cantidad"].Value ?? 0);
 
             }
             DatosGlobales.subtotalComplementos = total;
@@ -138,8 +138,8 @@ namespace vistas.formularios
 
             foreach (DataGridViewRow row in dgvComplemento.Rows)
             {
-                total += Convert.ToDouble(row.Cells["costoUnitario"].Value ?? 0) *
-                         Convert.ToInt32(row.Cells["cantidadInventario"].Value ?? 0);
+                total += Convert.ToDouble(row.Cells["costo"].Value ?? 0) *
+                         Convert.ToInt32(row.Cells["cantidad"].Value ?? 0);
 
             }
 
@@ -151,10 +151,10 @@ namespace vistas.formularios
             double precioUnitario = 0;
             foreach (DataGridViewRow data in dgvComplemento.Rows)
             {
-                precioUnitario += (Convert.ToDouble(data.Cells["precioUnitario"].Value ?? 0) *
-                                  Convert.ToInt16(data.Cells["cantidadInventario"].Value ?? 0)) -
-                                  Convert.ToDouble(data.Cells["costoUnitario"].Value ?? 0) *
-                                  Convert.ToInt32(data.Cells["cantidadInventario"].Value ?? 0);
+                precioUnitario += (Convert.ToDouble(data.Cells["precio"].Value ?? 0) *
+                                  Convert.ToInt16(data.Cells["cantidad"].Value ?? 0)) -
+                                  Convert.ToDouble(data.Cells["costo"].Value ?? 0) *
+                                  Convert.ToInt32(data.Cells["cantidad"].Value ?? 0);
 
 
             }
@@ -165,7 +165,7 @@ namespace vistas.formularios
             double total = 0;
             foreach (DataGridViewRow row in dgvComplemento.Rows)
             {
-                total += Convert.ToInt32(row.Cells["cantidadInventario"].Value ?? 0);
+                total += Convert.ToInt32(row.Cells["cantidad"].Value ?? 0);
             }
             txtProducto.Text = total.ToString("N0");
         }

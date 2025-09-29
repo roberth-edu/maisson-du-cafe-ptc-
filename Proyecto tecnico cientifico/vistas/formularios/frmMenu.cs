@@ -245,11 +245,6 @@ namespace vistas.formularios
 
         private void btnActualizar_Click(object sender, EventArgs e)
         {
-            //restringciones
-            menu m = new menu();
-            m.Nombre = txtNombre.Text;
-            m.Precio1 = double.Parse(txtPrecio.Text);
-
             if (string.IsNullOrEmpty(txtNombre.Text))
             {
                 MessageBox.Show("Por favor, ingrese un nombre para el producto.");
@@ -269,10 +264,16 @@ namespace vistas.formularios
                 MessageBox.Show("Por favor, ingrese un precio para el producto.");
                 return;
             }
+
+            //restringciones
+            menu m = new menu();
+            m.Nombre = txtNombre.Text;
+            m.Precio1 = double.Parse(txtPrecio.Text);
             if (dtpFecha.Value < DateTime.Today)
             {
                 m.FechaCreacion = dtpFecha.MinDate = DateTime.Today;
                 MessageBox.Show("No se pueden seleccionar fechas pasadas");
+                return;
             }
             if (dtpFecha.Value > DateTime.Now)
             {
@@ -284,6 +285,9 @@ namespace vistas.formularios
             {
                 m.FechaCreacion = dtpFecha.MinDate = DateTime.Today;
             }
+
+
+
             m.IdItemMenu = int.Parse(dgvMenu.CurrentRow.Cells[0].Value.ToString());
 
             if (m.actualizarMenu() == true)

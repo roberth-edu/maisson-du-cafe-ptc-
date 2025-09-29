@@ -141,8 +141,8 @@ namespace vistas.formularios
             {
                 // Convert.ToDouble(row.Cells["costoUnitario"].Value ?? 0) es para obtener el valor de la celda costoUnitario, si es nulo se asigna 0
                 
-                total += Convert.ToDouble(row.Cells["costoUnitario"].Value ?? 0) *
-                         Convert.ToInt32(row.Cells["cantidadInventario"].Value ?? 0);
+                total += Convert.ToDouble(row.Cells["costo"].Value ?? 0) *
+                         Convert.ToInt32(row.Cells["cantidad"].Value ?? 0);
             }
             //total.tostring es para convertir el total a string y "C2" es para formatear el número como moneda con dos decimales
             DatosGlobales.subtotalCafe = total;
@@ -160,8 +160,8 @@ namespace vistas.formularios
             {
                 // Convert.ToDouble(row.Cells["costoUnitario"].Value ?? 0) es para obtener el valor de la celda costoUnitario, si es nulo se asigna 0
 
-                total += Convert.ToDouble(row.Cells["costoUnitario"].Value ?? 0) *
-                         Convert.ToInt32(row.Cells["cantidadInventario"].Value ?? 0);
+                total += Convert.ToDouble(row.Cells["costo"].Value ?? 0) *
+                         Convert.ToInt32(row.Cells["cantidad"].Value ?? 0);
             }
             //total.tostring es para convertir el total a string y "C2" es para formatear el número como moneda con dos decimales
             txtPrecio.Text = total.ToString("C2");
@@ -171,10 +171,10 @@ namespace vistas.formularios
             double precioUnitario = 0;
             foreach (DataGridViewRow data in dgvcafe.Rows)
             {
-                precioUnitario += (Convert.ToDouble(data.Cells["precioUnitario"].Value ?? 0) *
-                                  Convert.ToInt16(data.Cells["cantidadInventario"].Value ?? 0)) -
-                                  Convert.ToDouble(data.Cells["costoUnitario"].Value ?? 0) *
-                                  Convert.ToInt32(data.Cells["cantidadInventario"].Value ?? 0);
+                precioUnitario += (Convert.ToDouble(data.Cells["precio"].Value ?? 0) *
+                                  Convert.ToInt16(data.Cells["cantidad"].Value ?? 0)) -
+                                  Convert.ToDouble(data.Cells["costo"].Value ?? 0) *
+                                  Convert.ToInt32(data.Cells["cantidad"].Value ?? 0);
 
 
             }
@@ -187,7 +187,7 @@ namespace vistas.formularios
             double total = 0;
             foreach (DataGridViewRow row in dgvcafe.Rows)
             {
-                total += Convert.ToInt32(row.Cells["cantidadInventario"].Value ?? 0);
+                total += Convert.ToInt32(row.Cells["cantidad"].Value ?? 0);
             }
             txtCantidad.Text = total.ToString("N0");
         }

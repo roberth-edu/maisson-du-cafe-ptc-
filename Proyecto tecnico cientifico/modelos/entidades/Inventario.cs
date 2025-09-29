@@ -112,8 +112,8 @@ namespace modelos.conexion
             {
                 SqlConnection connection = conexion.conectaDatabase();
 
-                string comando = @"select p.idProducto, p.nombreProducto, nombreCategoria, 
-                           precioUnitario, costoUnitario, cantidadInventario,FechaIngreso
+                string comando = @"select p.idProducto, p.nombreProducto as nombre, nombreCategoria as categoria, 
+                           precioUnitario as precio, costoUnitario as costo, cantidadInventario as cantidad,FechaIngreso as fecha
                            from productos p
                            inner join categoria_productos cp ON p.idCategoria = cp.idCategoria
                            inner join inventarios i ON p.idProducto = i.idProducto
