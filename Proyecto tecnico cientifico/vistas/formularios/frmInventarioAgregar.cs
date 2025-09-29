@@ -79,6 +79,7 @@ namespace vistas.formularios
                 return;
             }
 
+
             if (string.IsNullOrEmpty(txtNombreProducto.Text))
             {
                 MessageBox.Show("ingresar nombre");
@@ -152,8 +153,15 @@ namespace vistas.formularios
                 P.Cantidad1 = int.Parse(txtCantidad.Text);
                 P.Categoria = cbCategoria.Text;
                 P.Fecha = dtpFecha.Value;
+                if (dtpFecha.Value > DateTime.Now)
+                {
+                    P.Fecha = dtpFecha.MaxDate = DateTime.Today;
+                    MessageBox.Show("no ingresar fechas futuras");
+                    return;
+                }
                 P.InsertarProducto();
                 MessageBox.Show("producto agregado correctamente");
+
 
             }
             catch (Exception)
@@ -309,6 +317,11 @@ namespace vistas.formularios
             {
                 MessageBox.Show("Máximo de caracteres alcanzado");
             }
+
+        }
+
+        private void dtpFecha_ValueChanged(object sender, EventArgs e)
+        {
 
         }
     }

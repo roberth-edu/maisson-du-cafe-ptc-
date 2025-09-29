@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmolvidastelacontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmolvidastelacontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmpaginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmpaginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmolvidastelacontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmolvidastelacontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmpaginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmpaginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CBC4807C-E08E-4A77-868A-209FF9DA9518}|modelos\\modelos.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC4807C-E08E-4A77-868A-209FF9DA9518}|modelos\\modelos.csproj|solutionrelative:modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B59C5F52-45BE-4C48-BBF4-BA2B0B5285A9}|segurida\\segurida.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\segurida\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59C5F52-45BE-4C48-BBF4-BA2B0B5285A9}|segurida\\segurida.csproj|solutionrelative:segurida\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frminventarioagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frminventarioagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmconfiguracionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frminventarioagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frminventarioagregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmconfiguracionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmconfiguracionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmconfiguracionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmconfiguracionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmconfiguracionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|c:\\users\\rober\\onedrive\\desktop\\maisson du cafe (ptc)\\proyecto tecnico cientifico\\vistas\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE74A1C-FF04-4242-840E-AA4F76A994DA}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,31 +67,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmOlvidasteLaContra.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmOlvidasteLaContra.cs",
-              "RelativeDocumentMoniker": "vistas\\formularios\\frmOlvidasteLaContra.cs",
-              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmOlvidasteLaContra.cs",
-              "RelativeToolTip": "vistas\\formularios\\frmOlvidasteLaContra.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAIAwwDEAAAANAAAAAAAAAA==",
+              "Title": "frmPaginaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmPaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "vistas\\formularios\\frmPaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmPaginaPrincipal.cs",
+              "RelativeToolTip": "vistas\\formularios\\frmPaginaPrincipal.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T00:15:05.515Z",
+              "WhenOpened": "2025-09-29T02:37:33.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmOlvidasteLaContra.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmOlvidasteLaContra.cs",
-              "RelativeDocumentMoniker": "vistas\\formularios\\frmOlvidasteLaContra.cs",
-              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmOlvidasteLaContra.cs [Dise\u00F1o]",
-              "RelativeToolTip": "vistas\\formularios\\frmOlvidasteLaContra.cs [Dise\u00F1o]",
+              "Title": "frmPaginaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmPaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "vistas\\formularios\\frmPaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmPaginaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vistas\\formularios\\frmPaginaPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T00:15:03.416Z",
+              "WhenOpened": "2025-09-29T02:37:29.209Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\modelos\\conexion\\conexion.cs",
+              "RelativeDocumentMoniker": "modelos\\conexion\\conexion.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\modelos\\conexion\\conexion.cs",
+              "RelativeToolTip": "modelos\\conexion\\conexion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:36:56.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\segurida\\Class1.cs",
+              "RelativeDocumentMoniker": "segurida\\Class1.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\segurida\\Class1.cs",
+              "RelativeToolTip": "segurida\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:36:44.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmMenu.cs",
+              "RelativeDocumentMoniker": "vistas\\formularios\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmMenu.cs",
+              "RelativeToolTip": "vistas\\formularios\\frmMenu.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:50:00.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInventarioAgregar.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmInventarioAgregar.cs",
+              "RelativeDocumentMoniker": "vistas\\formularios\\frmInventarioAgregar.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmInventarioAgregar.cs",
+              "RelativeToolTip": "vistas\\formularios\\frmInventarioAgregar.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAowIsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:49:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmInventarioAgregar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmInventarioAgregar.cs",
+              "RelativeDocumentMoniker": "vistas\\formularios\\frmInventarioAgregar.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmInventarioAgregar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vistas\\formularios\\frmInventarioAgregar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:49:32.968Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "frmMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmMenu.cs",
               "RelativeDocumentMoniker": "vistas\\formularios\\frmMenu.cs",
@@ -83,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "frmEmpleados.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmEmpleados.cs",
               "RelativeDocumentMoniker": "vistas\\formularios\\frmEmpleados.cs",
@@ -95,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\Program.cs",
               "RelativeDocumentMoniker": "vistas\\Program.cs",
@@ -108,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "frmConfiguracionEmpresa.cs",
               "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmConfiguracionEmpresa.cs",
               "RelativeDocumentMoniker": "vistas\\formularios\\frmConfiguracionEmpresa.cs",
@@ -116,24 +200,22 @@
               "RelativeToolTip": "vistas\\formularios\\frmConfiguracionEmpresa.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAMwJIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T23:35:29.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T23:35:29.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "frmConfiguracionEmpresa.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmConfiguracionEmpresa.cs",
               "RelativeDocumentMoniker": "vistas\\formularios\\frmConfiguracionEmpresa.cs",
               "ToolTip": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmConfiguracionEmpresa.cs [Dise\u00F1o]",
               "RelativeToolTip": "vistas\\formularios\\frmConfiguracionEmpresa.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T23:34:06.769Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-27T23:34:06.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "frmEmpleados.cs",
               "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Desktop\\maisson du cafe (ptc)\\Proyecto tecnico cientifico\\vistas\\formularios\\frmEmpleados.cs",
               "RelativeDocumentMoniker": "vistas\\formularios\\frmEmpleados.cs",

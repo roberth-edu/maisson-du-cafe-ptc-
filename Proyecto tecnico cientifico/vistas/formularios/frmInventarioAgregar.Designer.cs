@@ -250,6 +250,7 @@
             this.dtpFecha.Name = "dtpFecha";
             this.dtpFecha.Size = new System.Drawing.Size(540, 41);
             this.dtpFecha.TabIndex = 10;
+            this.dtpFecha.ValueChanged += new System.EventHandler(this.dtpFecha_ValueChanged);
             // 
             // cbCategoria
             // 
