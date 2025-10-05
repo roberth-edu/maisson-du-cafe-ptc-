@@ -201,7 +201,7 @@ namespace vistas.formularios
 
         private void btnInventario_Click(object sender, EventArgs e)
         {
-            frmInventarioOpciones frmInventarioOpciones = new frmInventarioOpciones();
+            frmInventarioOpcionesEmple frmInventarioOpciones = new frmInventarioOpcionesEmple();
             frmInventarioOpciones.Show();
             this.Hide();
         }

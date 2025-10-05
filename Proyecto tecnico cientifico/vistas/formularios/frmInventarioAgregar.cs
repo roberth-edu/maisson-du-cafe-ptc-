@@ -57,6 +57,10 @@ namespace vistas.formularios
         }
         private void frmInventario_Load(object sender, EventArgs e)
         {
+            dtpFecha.Value = DateTime.Today;
+            dtpFecha.MinDate = DateTime.Today;
+            dtpFecha.MaxDate = DateTime.Today;
+            dtpFecha.Enabled = false;
             ConfigurarImagen();
             this.MaximumSize = SystemInformation.PrimaryMonitorMaximizedWindowSize;
             this.WindowState = FormWindowState.Maximized;
@@ -104,7 +108,7 @@ namespace vistas.formularios
                                   "Error",
                                   MessageBoxButtons.OK,
                                   MessageBoxIcon.Error);
-                    return; // Detener la ejecución
+                    return; 
                 }
             }
             if (!double.TryParse(txtCosto.Text, out double costo))
@@ -122,7 +126,7 @@ namespace vistas.formularios
                                   "Error",
                                   MessageBoxButtons.OK,
                                   MessageBoxIcon.Error);
-                    return; // Detener la ejecución
+                    return; 
                 }
             }
             if (!double.TryParse(txtPrecioUnitario.Text, out double precio))
@@ -153,12 +157,7 @@ namespace vistas.formularios
                 P.Cantidad1 = int.Parse(txtCantidad.Text);
                 P.Categoria = cbCategoria.Text;
                 P.Fecha = dtpFecha.Value;
-                if (dtpFecha.Value > DateTime.Now)
-                {
-                    P.Fecha = dtpFecha.MaxDate = DateTime.Today;
-                    MessageBox.Show("no ingresar fechas futuras");
-                    return;
-                }
+
                 P.InsertarProducto();
                 MessageBox.Show("producto agregado correctamente");
 

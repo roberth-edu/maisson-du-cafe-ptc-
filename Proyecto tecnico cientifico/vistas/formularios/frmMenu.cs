@@ -57,6 +57,10 @@ namespace vistas.formularios
             pbImagen.Image = BytesToImage(DatosGlobales.imagen);
             this.MaximumSize = SystemInformation.PrimaryMonitorMaximizedWindowSize;
             this.WindowState = FormWindowState.Maximized;
+            dtpFecha.Value = DateTime.Today;
+            dtpFecha.MinDate = DateTime.Today;
+            dtpFecha.MaxDate = DateTime.Today;
+            dtpFecha.Enabled = false;
             MostrarMenu();
             ConfigurarImagen();
         }
@@ -98,14 +102,22 @@ namespace vistas.formularios
 
         }
 
+
+
         private void btnAgregar_Click(object sender, EventArgs e)
         {
+
             if (string.IsNullOrEmpty (txtNombre.Text))
             {
                 MessageBox.Show("ingresar un nombre");
                 return;
             }
-            if (!double.TryParse(txtPrecio.Text, out double precio))
+            if (!double.TryParse(txtPrecio.Text, out double pre))
+            {
+                MessageBox.Show("ingresar un precio valido");
+                return;
+            }
+            if (double.TryParse(txtPrecio.Text, out double precio))
             {
                 
                 if (precio <= 0)
@@ -118,30 +130,17 @@ namespace vistas.formularios
                 }
             }
 
+
             
 
 
             menu nuevoMenu = new menu();
             nuevoMenu.Nombre = txtNombre.Text;
-            nuevoMenu.Precio1 = double.Parse(txtPrecio.Text);
-            if (dtpFecha.Value < DateTime.Today)
-            {
-                nuevoMenu.FechaCreacion = dtpFecha.MinDate = DateTime.Today;
-                MessageBox.Show("No se pueden seleccionar fechas pasadas");
-                return;
-            }
-            if (dtpFecha.Value > DateTime.Now)
-            {
-                nuevoMenu.FechaCreacion = dtpFecha.MaxDate = DateTime.Today;
-                MessageBox.Show("no ingresar fechas futuras");
-                return;
-            }
-            else
-            {
-                nuevoMenu.FechaCreacion = dtpFecha.MinDate = DateTime.Today;
-            }
-                nuevoMenu.InsertarMenu();
+            nuevoMenu.Precio1 = precio;
+            nuevoMenu.FechaCreacion = DateTime.Today;
+            nuevoMenu.InsertarMenu();
             MostrarMenu();
+
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)

@@ -8,6 +8,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -65,6 +66,14 @@ namespace vistas.formularios
             }
         }
 
+        //para validar que el correo se escriba correctamente
+        private bool EsCorreoGmailValido(string correo)
+        {
+            // Regex: solo acepta correos que terminen en @gmail.com
+            string patron = @"^[a-zA-Z0-9._%+-]+@gmail\.com$";
+            return Regex.IsMatch(correo, patron);
+        }
+
         private void btnAgregarEmpleado_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtNombreEmpleado.Text))
@@ -91,6 +100,12 @@ namespace vistas.formularios
                 return;
 
             }
+
+            if (!EsCorreoGmailValido(txtEmailEmpleado.Text))
+            {
+                MessageBox.Show("El correo debe ser un Gmail válido (ejemplo: usuario@gmail.com)");
+                return;
+            }
             if (string.IsNullOrEmpty(cbRol.Text))
             {
                 MessageBox.Show("ingresar un rol para empleado");
@@ -105,23 +120,10 @@ namespace vistas.formularios
                     Telefono = telefono,
                     EmailEmpleado = txtEmailEmpleado.Text,
                     Contraseña1 = txtContraseña.Text,
-                    Inicio = dtpFechaEmpleado.MinDate = DateTime.Today,
+                    Inicio = dtpFechaEmpleado.Value,
                     Rol = cbRol.Text
                     
                 };
-
-                if (dtpFechaEmpleado.MinDate< DateTime.Today)
-                {
-                    nuevo.Inicio = dtpFechaEmpleado.MinDate = DateTime.Today;
-                    MessageBox.Show("no ingresar fechas pasadas");
-                    return;
-                }
-                if (dtpFechaEmpleado.Value > DateTime.Now)
-                {
-                    nuevo.Inicio = dtpFechaEmpleado.MaxDate = DateTime.Today;
-                    MessageBox.Show("no ingresar fechas futuras");
-                    return;
-                }
 
                 if (nuevo.insertarEmpleado())
                 {
@@ -165,6 +167,10 @@ namespace vistas.formularios
         }
         private void frmEmpleados_Load(object sender, EventArgs e)
         {
+            dtpFechaEmpleado.Value = DateTime.Today;
+            dtpFechaEmpleado.MinDate = DateTime.Today;
+            dtpFechaEmpleado.MaxDate = DateTime.Today;
+            dtpFechaEmpleado.Enabled = false;
             this.MaximumSize = SystemInformation.PrimaryMonitorMaximizedWindowSize;
             this.WindowState = FormWindowState.Maximized;
             pbImagen.Image = BytesToImage(DatosGlobales.imagen);

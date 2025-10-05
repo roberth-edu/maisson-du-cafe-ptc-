@@ -4,9 +4,11 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Controls;
 using System.Windows.Forms;
 
 namespace vistas.formularios
@@ -69,6 +71,7 @@ namespace vistas.formularios
         {
             this.MaximumSize = SystemInformation.PrimaryMonitorMaximizedWindowSize;
             this.WindowState = FormWindowState.Maximized;
+            RedondearTableLayout(tableLayoutPanel1, 50);
         }
 
         private void iconButton1_Click(object sender, EventArgs e)
@@ -100,6 +103,25 @@ namespace vistas.formularios
                 MessageBox.Show("limite de caracteres alcanzado");
 
             }
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+        public void RedondearTableLayout(TableLayoutPanel tlp, int radio)
+        {
+            GraphicsPath path = new GraphicsPath();
+
+            // Bordes redondeados
+            path.AddArc(0, 0, radio, radio, 180, 90); // esquina sup. izq
+            path.AddArc(tlp.Width - radio, 0, radio, radio, 270, 90); // sup. der
+            path.AddArc(tlp.Width - radio, tlp.Height - radio, radio, radio, 0, 90); // inf. der
+            path.AddArc(0, tlp.Height - radio, radio, radio, 90, 90); // inf. izq
+            path.CloseAllFigures();
+
+            // Aplicar la región al TableLayoutPanel
+            tlp.Region = new Region(path);
         }
     }
 }
