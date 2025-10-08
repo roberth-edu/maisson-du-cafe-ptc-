@@ -366,5 +366,10 @@ namespace vistas.formularios
                 MessageBox.Show("Máximo de caracteres alcanzado");
             }
         }
+
+        private void dgvGraficoEmpleado_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

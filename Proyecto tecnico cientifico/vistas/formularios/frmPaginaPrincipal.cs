@@ -46,6 +46,8 @@ namespace vistas.formularios
             pbLogo.SizeMode = PictureBoxSizeMode.StretchImage;
             pbLogo.BorderStyle = BorderStyle.FixedSingle;
         }
+        public static string serverName = Environment.MachineName;
+
         private void paginaPrincipal_Load(object sender, EventArgs e)
         {
 
@@ -55,7 +57,8 @@ namespace vistas.formularios
             pbLogo.Image = BytesToImage(DatosGlobales.imagen);
             txtClientes.Text = DatosGlobales.clientes.ToString();
             txtFav.Text = DatosGlobales.ProductoFavorito.ToString();
-            string conexion = "Server=ROBERTH;Database=Maisoon_du_cafe;Integrated Security=True;";
+
+            string conexion = $"Server={serverName};Database=Maisoon_du_cafe;Integrated Security=True;";
 
             string consulta = "SELECT productoVenta, subtotal FROM detalleVentas";
 

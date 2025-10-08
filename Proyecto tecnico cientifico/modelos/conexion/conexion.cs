@@ -11,12 +11,13 @@ namespace modelos.conexion
 {
     class conexion
     {
+       public static string serverName = Environment.MachineName;
         public static string servidor = "ROBERTH";
         public static string database = "maisoon_du_cafe";
 
         public static SqlConnection conectaDatabase()
         {
-            string cadena = $"Data source={servidor}; initial catalog={database};integrated security=true;";
+            string cadena = $"Data source={serverName}; initial catalog={database};integrated security=true;";
 
             SqlConnection conexion = new SqlConnection(cadena);
             conexion.Open();

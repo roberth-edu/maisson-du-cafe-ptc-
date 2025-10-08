@@ -1,0 +1,9 @@
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\bin\Release\modelos.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\bin\Release\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\bin\Release\System.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\bin\Release\System.Data.SqlClient.xml
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\obj\Release\modelos.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\obj\Release\modelos.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\obj\Release\modelos.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\obj\Release\modelos.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\modelos\obj\Release\modelos.pdb

@@ -13,6 +13,7 @@ email varchar(100),
 sitioWeb varchar(100),
 logo varbinary(max), -- opcional, para guardar imagen del logo
 );
+go
 --------------------------------------------definimos roles y sus campos(tiren paroooooooo)------------------------------------
 create table roles
 (
@@ -33,21 +34,16 @@ idRol int,
 constraint fkRol foreign key (idRol) references roles(idRol) on delete cascade,
 )
 go
-insert into roles values 
-('jefe'),
-('empleado'),
-('reponedor')
 
 select *from roles
 select *from usuarios
-delete from usuarios
-delete from roles
 -------------------------------------el almacen (ayuda me costo mucho)----------------------------------------------------
 create table categoria_productos (
 idCategoria int identity(1,1) primary key,
 nombreCategoria varchar(100) not null,
 descripcionCategotria varchar(255)
 );
+go
 
 create table productos (
 idProducto int identity(1,1) primary key,
@@ -58,6 +54,7 @@ precioUnitario decimal(10,2),
 CostoUnitario decimal(10,2),
 constraint fkcategoria FOREIGN KEY (idCategoria) REFERENCES categoria_productos(idCategoria)on delete cascade,
 );
+go
 
 
 create table inventarios (
@@ -70,6 +67,7 @@ FechaIngreso date,
 idProducto int,
 constraint fkProducto foreign key (idProducto) references productos(idProducto) on delete cascade
 );
+go
 
 -------------------------ventas------------------------------------------------------------------------
 create table ventas
@@ -81,6 +79,7 @@ estadoVenta varchar(100),
 idUsuario int,
 constraint fkUsuarios foreign key (idUsuario) references usuarios(idUsuario) on delete cascade
 )
+go
 
 create table detalleVentas
 (
@@ -93,9 +92,7 @@ idProducto int,
 constraint fkProductos foreign key (idProducto) references productos(idProducto) on delete cascade,
 constraint fkVenta foreign key (id_venta) references Ventas(idVenta) on delete cascade,
 )
-
-select *from detalleVentas
-delete from detalleVentas
+go
 
 
 create view calcularGanancia as
@@ -103,3 +100,4 @@ select sum(cantidadInventario * precioUnitario) as total
 from inventarios
 inner join
 productos on productos.idProducto = inventarios.idProducto
+go

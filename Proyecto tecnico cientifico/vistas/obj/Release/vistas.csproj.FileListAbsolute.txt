@@ -1,0 +1,36 @@
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Release\Maisoon du cafe.exe.config
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Release\Maisoon du cafe.exe
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Release\Maisoon du cafe.pdb
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Release\FontAwesome.Sharp.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Release\modelos.dll
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Release\modelos.pdb
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmInventarioOpcionesEmple.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmMenuEmple.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmmostrarInventarioCafeEmple.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmMostrarInventarioComplementoEmple.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmPaginaPrincipalEmpleado.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.BarraDeBusqueda.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmAgregarUsuarioIngresar.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmConfiguracionEmpresa.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmEmpleados.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmGastos.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmIngresar.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmInventarioAgregar.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmInventarioOpciones.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmMaisson.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmMenu.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmmostrarInventarioCafe.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmMostrarInventarioComplemento.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmPaginaPrincipal.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.formularios.frmOlvidasteLaContra.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.Properties.Resources.resources
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\vistas.csproj.Up2Date
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\Maisoon du cafe.exe
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\Maisoon du cafe.pdb
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Release\Maisoon du cafe.exe.manifest
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\bin\Release\Maisoon du cafe.application
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\Maisoon du cafe.exe.manifest
+C:\Users\rober\OneDrive\Desktop\maisson du cafe (ptc)\Proyecto tecnico cientifico\vistas\obj\Release\Maisoon du cafe.application
